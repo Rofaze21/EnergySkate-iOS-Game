@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Line
+  - Obstacle
+  - Win
+  - excavator
+  - music
+  - Wheel
+  - Skateboard
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - World
+  - Draw
+  - line
+  - wheel
+  - player
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3218716603
+    locked: 0
+  - name: Background
+    uniqueID: 1372382073
+    locked: 0
+  - name: Foreground
+    uniqueID: 3777592251
+    locked: 0
+  - name: UI
+    uniqueID: 3199747247
+    locked: 0
+  - name: Pause Menu
+    uniqueID: 1467971529
+    locked: 0

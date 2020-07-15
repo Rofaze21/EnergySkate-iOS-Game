@@ -1,0 +1,18 @@
+{
+  "name": "com.amlovey.uce",
+  "displayName": "uCodeEditor",
+  "version": "1.2.4",
+  "unity": "2017.1",
+  "description": "uCodeEditor is a lightweight code editor inside Unity Editor, another\u00a0code editor choice for Unity programming. It supports C# and shaderlab with great editing features, including Syntax Highlighting, Code Complete, Auto Format etc.",
+  "keywords": [
+    "uCodeEditor",
+    "UCE",
+    "Code Editor"
+  ],
+  "category": "Editor",
+  "author": {
+    "name": "Amlovey",
+    "email": "amlovey@qq.com",
+    "url": "http://www.amlovey.com"
+  }
+}
