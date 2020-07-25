@@ -1,4 +1,4 @@
-# EnergySkate iOS Game
+# 🎮 🛹 EnergySkate iOS Game
 
 ## What is it?
 An iOS game to teach kids in grades 1st-5th about Kinetic and Potential Energy. This game was developed for my "Computational Media: Videogame Development" course taught by Christopher Weaver, the founder of Bethesda. 
